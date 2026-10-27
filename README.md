@@ -1,4 +1,6 @@
-# 现代 A 股量化投研实战
+# 量化研究手册
+
+**Quantitative Research Handbook**
 
 中文 VitePress 教程，共 8 大模块、31 讲，包含理论说明与 Python/Polars/cvxpy 教学示例。第 1–31 讲均有独立源码及离线验证；合成示例运行通过不构成生产验收。
 
