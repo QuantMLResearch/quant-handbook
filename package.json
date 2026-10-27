@@ -1,0 +1,17 @@
+{
+  "name": "ashare-quant-tutorial",
+  "version": "1.0.0",
+  "description": "现代 A 股量化投研实战课",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview",
+    "test:examples": "uv run --locked --extra ml --extra deep --extra optimization python -m unittest discover -s tests -v"
+  },
+  "devDependencies": {
+    "markdown-it-mathjax3": "^4.3.2",
+    "mermaid": "^11.4.1",
+    "vitepress": "^1.5.0",
+    "vitepress-plugin-mermaid": "^2.0.17"
+  }
+}
